@@ -9,7 +9,7 @@ A simple calculator built with HTML, CSS, and JavaScript, designed to perform ba
 - User-friendly interface
 
 ## How to Use
-1. Open the `index.html` file in your browser.
+1. Open the `clc.html` file in your browser.
 2. Click on the numeric buttons to input numbers.
 3. Click on the operators (+, -, *, /) to perform calculations.
 4. Click the equals (=) button to display the result.
