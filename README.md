@@ -14,5 +14,5 @@ A simple calculator built with HTML, CSS, and JavaScript, designed to perform ba
 3. Click on the operators (+, -, *, /) to perform calculations.
 4. Click the equals (=) button to display the result.
 5. Click the clear (C) button to reset the calculator.
-
-
+# website link
+[website_link](https://calculator1232321.w3spaces.com/clc.html)
